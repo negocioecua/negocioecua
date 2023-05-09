@@ -4,70 +4,70 @@
         "nombre": "Artículo 1",
         "categoria": "fuerza",
         "precio": 50,
-        "descripcion": "Descripción del Artículo 1",
+        "descripcion": "Descripción: CONTACTOR TRIPOLAR CHINT 50A - 110/120V",
         "img": "articulo-1.jpg"
       },
       {
         "nombre": "Artículo 2",
-        "categoria": "control",
-        "precio": 100,
-        "descripcion": "Descripción del Artículo 2",
+        "categoria": "fuerza",
+        "precio": 70,
+        "descripcion": "Descripción: CONTACTOR TRIPOLAR CHINT 70A - 220/240V",
         "img": "articulo-2.jpg"
       },
       {
         "nombre": "Artículo 3",
-        "categoria": "iluminacion",
+        "categoria": "control",
         "precio": 150,
-        "descripcion": "Descripción del Artículo 3",
+        "descripcion": "Descripción:SUPERVISOR DE FASE TRIFASICO CHINT 120V",
         "img": "articulo-3.jpg"
       },
       {
         "nombre": "Artículo 4",
-        "categoria": "fuerza",
-        "precio": 80,
-        "descripcion": "Descripción del Artículo 4",
+        "categoria": "control",
+        "precio": 30,
+        "descripcion": "Descripción:BOTONES DE PARO Y MARCHA CHINT NP9",
         "img": "articulo-4.jpg"
       },
       {
         "nombre": "Artículo 5",
-        "categoria": "control",
-        "precio": 120,
-        "descripcion": "Descripción del Artículo 5",
+        "categoria": "fuerza",
+        "precio": 10,
+        "descripcion": "Descripción:TERMOMAGNETICO UNIPOLAR SCHNEIDER 16A",
         "img": "articulo-5.jpg"
       },
       {
         "nombre": "Artículo 6",
-        "categoria": "iluminacion",
-        "precio": 200,
-        "descripcion": "Descripción del Artículo 6",
+        "categoria": "control",
+        "precio": 10,
+        "descripcion": "Descripción: 3PACK DE LUCES PILOTO CHINT COLORES ROJO-AMARILLO-VERDE",
         "img": "articulo-6.jpg"
       },
       {
         "nombre": "Artículo 7",
-        "categoria": "fuerza",
-        "precio": 60,
-        "descripcion": "Descripción del Artículo 7",
+        "categoria": "control",
+        "precio": 15,
+        "descripcion": "Descripción:6PACK DE BOTONERAS CHINT COLORES ROJO-AMARILLO-VERDE",
         "img": "articulo-7.jpg"
       },
       {
         "nombre": "Artículo 8",
         "categoria": "control",
-        "precio": 90,
-        "descripcion": "Descripción del Artículo 8",
+        "precio": 5,
+        "descripcion": "Descripción:BOTON DE PARO GENERAL CHINT 3A ",
         "img": "articulo-8.jpg"
       },
       {
         "nombre": "Artículo 9",
         "categoria": "iluminacion",
         "precio": 180,
-        "descripcion": "Descripción del Artículo 9",
+        "descripcion": "Descripción:LUMINARIA LED MAVIJU 130W 600LM",
         "img": "articulo-9.jpg"
       },
       {
         "nombre": "Artículo 10",
         "categoria": "fuerza",
         "precio": 70,
-        "descripcion": "Descripción del Artículo 10",
+        "descripcion": "Descripción:REFLECTOR LED MAVIJU 240W 1000LM",
         "img": "articulo-10.jpg"
       }
     ]
