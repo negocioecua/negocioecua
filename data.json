@@ -18,21 +18,21 @@
         "nombre": "Artículo 3",
         "categoria": "control",
         "precio": 150,
-        "descripcion": "Descripción:SUPERVISOR DE FASE TRIFASICO CHINT 120V",
+        "descripcion": "Descripción: SUPERVISOR DE FASE TRIFASICO CHINT 120V",
         "img": "articulo-3.jpg"
       },
       {
         "nombre": "Artículo 4",
         "categoria": "control",
         "precio": 30,
-        "descripcion": "Descripción:BOTONES DE PARO Y MARCHA CHINT NP9",
+        "descripcion": "Descripción: BOTONES DE PARO Y MARCHA CHINT NP9",
         "img": "articulo-4.jpg"
       },
       {
         "nombre": "Artículo 5",
         "categoria": "fuerza",
         "precio": 10,
-        "descripcion": "Descripción:TERMOMAGNETICO UNIPOLAR SCHNEIDER 16A",
+        "descripcion": "Descripción: TERMOMAGNETICO UNIPOLAR SCHNEIDER 16A",
         "img": "articulo-5.jpg"
       },
       {
@@ -46,28 +46,28 @@
         "nombre": "Artículo 7",
         "categoria": "control",
         "precio": 15,
-        "descripcion": "Descripción:6PACK DE BOTONERAS CHINT COLORES ROJO-AMARILLO-VERDE",
+        "descripcion": "Descripción: 6PACK DE BOTONERAS CHINT COLORES ROJO-AMARILLO-VERDE",
         "img": "articulo-7.jpg"
       },
       {
         "nombre": "Artículo 8",
         "categoria": "control",
         "precio": 5,
-        "descripcion": "Descripción:BOTON DE PARO GENERAL CHINT 3A ",
+        "descripcion": "Descripción: BOTON DE PARO GENERAL CHINT 3A ",
         "img": "articulo-8.jpg"
       },
       {
         "nombre": "Artículo 9",
         "categoria": "iluminacion",
         "precio": 180,
-        "descripcion": "Descripción:LUMINARIA LED MAVIJU 130W 600LM",
+        "descripcion": "Descripción: LUMINARIA LED MAVIJU 130W 600LM",
         "img": "articulo-9.jpg"
       },
       {
         "nombre": "Artículo 10",
-        "categoria": "fuerza",
+        "categoria": "iluminacion",
         "precio": 70,
-        "descripcion": "Descripción:REFLECTOR LED MAVIJU 240W 1000LM",
+        "descripcion": "Descripción: REFLECTOR LED MAVIJU 240W 1000LM",
         "img": "articulo-10.jpg"
       }
     ]
