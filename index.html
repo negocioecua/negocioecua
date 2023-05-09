@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Venta de Artículos Eléctricos</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <img src="banner.jpg" height="250px" width="1301px">
+    <div class="image-container"></div>
+
+</head>
+
+<body>
+    
+    <header>
+        <h1>Venta de Artículos Eléctricos</h1>
+    </header>
+    <nav aria-label="Navegación principal">
+        <ul>
+            <li><a href="#fuerza">Fuerza</a></li>
+            <li><a href="#control">Control</a></li>
+            <li><a href="#iluminacion">Iluminación</a></li>
+        </ul>
+    </nav>
+    <main>
+
+
+        <!-- Filtro por categoría -->
+        <label for="filtro-categoria">Filtrar por categoría:</label>
+        <select id="filtro-categoria">
+            <option value="">Todas las marcas</option>
+            <option value="fuerza">Chint</option>
+            <option value="control">Sneicheder</option>
+            <option value="iluminacion">Maviju</option>
+        </select>
+
+        <!-- Filtro por precio -->
+        <label for="filtro-precio">Filtrar por precio:</label>
+        <select id="filtro-precio">
+            <option value="0">Todos los precios</option>
+            <option value="50">Hasta $50</option>
+            <option value="100">Hasta $100</option>
+            <option value="150">Hasta $150</option>
+            <option value="200">Hasta $200</option>
+            <option value="250">Hasta $250</option>
+        </select>
+
+
+
+        <article id="fuerza">
+            <h2>Artículos de fuerza disponibles</h2>
+            <div id="fuerza-contenedor"></div>
+            <p>Disponemos de motores, transformadores y bombas de agua.</p>
+        </article>
+
+        <article id="control">
+            <h2>Artículos de control disponibles</h2>
+            <div id="control-contenedor"></div>
+            <p>Arma tus tableros con nuestros productos de calidad.</p>
+        </article>
+
+        <article id="iluminacion">
+            <h2>Artículos de iluminación disponibles</h2>
+            <div id="iluminacion-contenedor"></div>
+            <p>Personaliza tu lugar de trabajo con la mejor iluminación.</p>
+        </article>
+
+    </main>
+    <footer>
+        <p>Derechos de autor © 2023 Venta de artículos eléctricos</p>
+    </footer>
+    <script src="main.js"></script>
+</body>
+
+</html>
